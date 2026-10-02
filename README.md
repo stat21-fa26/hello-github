@@ -1,2 +1,2 @@
 # hello-github
-Test repo to verify your GitHub configuration.
+This is only to verify that you can clone a repository.
